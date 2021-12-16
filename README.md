@@ -11,8 +11,8 @@ Build A Machine Learning Web App From Scratch
 ## About
 In this project, we build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model.
 
-## The website
-Check out our website:
+## The website 
+Check out our website: (still run locally, later to be deployed on heroku or google app engine)
 <p align="center"><img src="https://github.com/nekoemperor/salaryprediction-ml-app/blob/master/salaryprediction/images/salaryprediction.gif" width="768"  />
 
 ## Data analysis
